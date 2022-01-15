@@ -1,9 +1,9 @@
 package com.by.generics;
 
-public class MaximumInteger {
+public class MaximumFloat {
 
-	public Integer getMaxInt(Integer a,Integer b,Integer c) {
-		Integer max=a;
+	public Float getMaxFloat(Float a,Float b,Float c) {
+		Float max=a;
 		if(max.compareTo(b) < 0) {
 			max=b;
 		}

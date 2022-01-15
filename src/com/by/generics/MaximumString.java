@@ -1,9 +1,9 @@
 package com.by.generics;
 
-public class MaximumInteger {
+public class MaximumString {
 
-	public Integer getMaxInt(Integer a,Integer b,Integer c) {
-		Integer max=a;
+	public String getMaxString(String a,String b,String c) {
+		String max=a;
 		if(max.compareTo(b) < 0) {
 			max=b;
 		}
