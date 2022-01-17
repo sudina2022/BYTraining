@@ -1,4 +1,4 @@
-package Collections;
+package com.by.review.collections;
 
 public class PersonDetails {
 
